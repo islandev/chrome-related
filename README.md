@@ -1,14 +1,4 @@
-## 常用的chrome 插件
+#  工具箱
 
-1.  Adblock Plus
-
-2. Google Mail Checker
-
-3. History Calendar
-
-4. JSONView
-
-5. Momentum
-
-6. OneTab
-7. Postman
+- chrome 		常用chrome插件
+- software		常用软件
